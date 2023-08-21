@@ -19,7 +19,7 @@ public class PyLab01 {
             System.out.println("LO LOGRASTE!! ");
         }
         else {
-            System.out.println("ups, perdiste...");
+            System.out.println("NO LO LOGRASTE :C");
         }
     }
     
