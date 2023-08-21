@@ -16,7 +16,7 @@ public class PyLab01 {
             }
         } while(vida < 3 && !fl);
         if (fl == true) {
-            System.out.println("Adivinaste!!!! ");
+            System.out.println("LO LOGRASTE!! ");
         }
         else {
             System.out.println("ups, perdiste...");
